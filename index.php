@@ -5,6 +5,11 @@
 <link rel="stylesheet" href="style.css"> 
 </head>
 <body>
+
+<?php>
+	echo "<P>Hello World from the internet!</p>;
+	?>
+	
 	<?php 
 	$partner = "Google";
 	$ai_model = "Google Gemini";
